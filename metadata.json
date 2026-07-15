@@ -1,0 +1,6 @@
+{
+  "name": "TopUp Game",
+  "description": "A popular game top-up application for Free Fire, PUBG, Mobile Legends, Dota 2, and Honor of Kings with simulated automatic payment and history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
